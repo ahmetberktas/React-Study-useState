@@ -1,0 +1,22 @@
+.wrapper {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.countTitle {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.countNum {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    margin: 20px 0;
+    color: #333;
+}
+
